@@ -15,7 +15,7 @@
     height: min(410px, 90%);
     object-fit: contain;
     object-position: center;
-    transform: none;
+    transform: scale(5);
     display: block;
     filter: drop-shadow(0 12px 18px rgba(0,0,0,.22));
 }

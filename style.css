@@ -13,7 +13,8 @@ content://com.android.providers.downloads.documents/document/404@import url('htt
 .photo img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    transform: scale(2.5);
     object-position: center;
     display: block;
 }

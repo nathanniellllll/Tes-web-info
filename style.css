@@ -8,9 +8,9 @@
 
 /* Avatar foto - bulat sempurna */
 .avatar {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border-radius: 80%;
     overflow: hidden;
     display: block;
     background: #f4dddd;
